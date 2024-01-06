@@ -1,0 +1,356 @@
+2024-01-06 15:09:23,260 - foss - INFO - ****** JOB STARTED... ******
+2024-01-06 15:09:23,261 - foss - INFO - Invoking process() : Input folder:E:\foss_backup\1111\01\\, Output folder:E:/foss_backup/)
+2024-01-06 15:09:23,261 - foss - INFO - Invoking : find_new_files()
+2024-01-06 15:09:23,261 - foss - INFO - Reading prior backup status file:E:/foss_backup/backup.status.csv
+2024-01-06 15:09:23,562 - foss - INFO - Number of files in the the prior backup status file:42628
+2024-01-06 15:09:23,580 - foss - INFO - Time taken to read  create_prior_backup_metadata_map:0:00:00.319025
+2024-01-06 15:09:23,581 - foss - INFO - create_input_folder_medata_map():E:\foss_backup\1111\01\\
+2024-01-06 15:10:37,800 - foss - INFO - ****** JOB STARTED... ******
+2024-01-06 15:10:37,801 - foss - INFO - Invoking process() : Input folder:D:\foss_backup\1111\01\\, Output folder:D:/foss_backup/)
+2024-01-06 15:10:37,801 - foss - INFO - Invoking : find_new_files()
+2024-01-06 15:10:37,801 - foss - INFO - Reading prior backup status file:D:/foss_backup/backup.status.csv
+2024-01-06 15:10:38,384 - foss - INFO - Number of files in the the prior backup status file:41427
+2024-01-06 15:10:38,398 - foss - INFO - Time taken to read  create_prior_backup_metadata_map:0:00:00.596722
+2024-01-06 15:10:38,398 - foss - INFO - create_input_folder_medata_map():D:\foss_backup\1111\01\\
+2024-01-06 15:13:20,518 - foss - INFO - ****** JOB STARTED... ******
+2024-01-06 15:13:20,518 - foss - INFO - Invoking process() : Input folder:D:\foss_backup\1111\01\\, Output folder:D:/foss_backup/)
+2024-01-06 15:13:20,518 - foss - INFO - Invoking : find_new_files()
+2024-01-06 15:13:20,519 - foss - INFO - Reading prior backup status file:D:/foss_backup/backup.status.csv
+2024-01-06 15:13:20,795 - foss - INFO - Number of files in the the prior backup status file:41427
+2024-01-06 15:13:20,810 - foss - INFO - Time taken to read  create_prior_backup_metadata_map:0:00:00.291269
+2024-01-06 15:13:20,811 - foss - INFO - create_input_folder_medata_map():D:\foss_backup\1111\01\\
+2024-01-06 15:15:13,619 - foss - INFO - ****** JOB STARTED... ******
+2024-01-06 15:15:13,620 - foss - INFO - Invoking process() : Input folder:D:\foss_backup\1111\01\\, Output folder:D:/foss_backup/)
+2024-01-06 15:15:13,620 - foss - INFO - Invoking : find_new_files()
+2024-01-06 15:15:13,620 - foss - INFO - Reading prior backup status file:D:/foss_backup/backup.status.csv
+2024-01-06 15:15:13,873 - foss - INFO - Number of files in the the prior backup status file:41427
+2024-01-06 15:15:13,888 - foss - INFO - Time taken to read  create_prior_backup_metadata_map:0:00:00.268448
+2024-01-06 15:15:13,888 - foss - INFO - create_input_folder_medata_map():D:\foss_backup\1111\01\\
+2024-01-06 15:15:24,060 - foss - INFO - ****** JOB STARTED... ******
+2024-01-06 15:15:24,061 - foss - INFO - Invoking process() : Input folder:D:\foss_backup\1111\01\\, Output folder:D:/foss_backup/)
+2024-01-06 15:15:24,061 - foss - INFO - Invoking : find_new_files()
+2024-01-06 15:15:24,061 - foss - INFO - Reading prior backup status file:D:/foss_backup/backup.status.csv
+2024-01-06 15:15:24,322 - foss - INFO - Number of files in the the prior backup status file:41427
+2024-01-06 15:15:24,338 - foss - INFO - Time taken to read  create_prior_backup_metadata_map:0:00:00.277350
+2024-01-06 15:15:24,339 - foss - INFO - create_input_folder_medata_map():D:\foss_backup\1111\01\\
+2024-01-06 15:15:36,438 - foss - INFO - ****** JOB STARTED... ******
+2024-01-06 15:15:36,439 - foss - INFO - Invoking process() : Input folder:D:\foss_backup\1111\01\\, Output folder:D:/foss_backup/)
+2024-01-06 15:15:36,439 - foss - INFO - Invoking : find_new_files()
+2024-01-06 15:15:36,440 - foss - INFO - Reading prior backup status file:D:/foss_backup/backup.status.csv
+2024-01-06 15:15:36,700 - foss - INFO - Number of files in the the prior backup status file:41427
+2024-01-06 15:15:36,716 - foss - INFO - Time taken to read  create_prior_backup_metadata_map:0:00:00.276332
+2024-01-06 15:15:36,717 - foss - INFO - create_input_folder_medata_map():D:\foss_backup\1111\01\\
+2024-01-06 15:15:59,806 - foss - INFO - ****** JOB STARTED... ******
+2024-01-06 15:15:59,806 - foss - INFO - Invoking process() : Input folder:D:\foss_backup\1111\11\\, Output folder:D:/foss_backup/)
+2024-01-06 15:15:59,806 - foss - INFO - Invoking : find_new_files()
+2024-01-06 15:15:59,806 - foss - INFO - Reading prior backup status file:D:/foss_backup/backup.status.csv
+2024-01-06 15:16:00,133 - foss - INFO - Number of files in the the prior backup status file:41427
+2024-01-06 15:16:00,160 - foss - INFO - Time taken to read  create_prior_backup_metadata_map:0:00:00.354716
+2024-01-06 15:16:00,162 - foss - INFO - create_input_folder_medata_map():D:\foss_backup\1111\11\\
+2024-01-06 15:16:00,163 - foss - INFO - Gathering files metadata for directory:D:\foss_backup\1111\11\\, that has 103 files
+2024-01-06 15:16:00,394 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\1-s2.0-S0140673610614225-gr1.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,451 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\1.bmp. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,467 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\2.bmp. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,486 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\22Soft.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,505 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\30. Nov.11  032.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,521 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\30. Nov.11  033.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,531 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\30. Nov.11  034.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,555 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\30. Nov.11  035.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,576 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\30. Nov.11  036.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,590 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\30. Nov.11  041.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,605 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\30. Nov.11  042.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,630 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\30. Nov.11  043.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,648 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\302288040#31460_binno_27744-1218036858.tif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,650 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\3441276149#127885_Picture 040.mpg,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:00,656 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\amazon-logo-tiny.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,671 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\April2013_AKME.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,672 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\atiya_chagumba 019.mpg,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:00,680 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\bg_content_bottom.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,685 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\bg_header_break.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,735 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\binno_27744-1218036858.tif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,764 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\bubbly.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:00,990 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\bubbly.png. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,223 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\bubbly1.png. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,233 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\check_no.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,237 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\check_yes.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,242 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\corner_tl.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,250 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\first floor-page-0.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,265 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\first_floor_feedback_v1.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,272 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\groud_floor_feedfack_v1.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,281 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\ground floor-page-0.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,309 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0037.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,316 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0038.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,323 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0039.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,341 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0040.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,353 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0041.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,368 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0042.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,381 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0043.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,391 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0044.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,400 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0045.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,413 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0046.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,428 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0047.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,443 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0111.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,457 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0112.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,471 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0113.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,478 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0115.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,484 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0116.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,493 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0117.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,500 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0118.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,506 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0119.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,513 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0120.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,521 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0121.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,534 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0122.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,551 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0127.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,560 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0148.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,568 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0477.PNG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,576 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0483.PNG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,581 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0536.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,586 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0537.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,607 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0538.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,615 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0539.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,627 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0549.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,640 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0550.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,792 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\IMG_0943-1.png. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,811 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\Korou_1.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,820 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\Korou_2.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,849 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\Korou_3.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,863 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\Korou_4.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,877 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\Korou_5.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,896 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\Korou_6.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,918 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\M219F1.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,937 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\ME_507_Borderline.png. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:01,938 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00009.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:01,960 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00010.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:01,978 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00031.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,028 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00032.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,093 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00033.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,108 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00034.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,159 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00035.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,186 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00036.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,207 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00037.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,224 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00038.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,283 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00039.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,538 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00207.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,586 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\MOV00229.MPG,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,612 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\my.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,613 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\njlogo.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,631 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\ocean.bmp. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,633 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\online.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,634 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\Picture 035.mpg,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,651 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\Picture 036.mpg,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,670 - foss - ERROR - Exception on processing file:D:\foss_backup\1111\11\Picture 040.mpg,,Traceback (most recent call last):
+  File "C:\Users\korou\PycharmProjects\PersonalFileOnPremise\foss.py", line 257, in getVideoCreateDate
+    vid = ffmpeg.probe(file)
+          ^^^^^^^^^^^^
+AttributeError: module 'ffmpeg' has no attribute 'probe'
+
+2024-01-06 15:16:02,692 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\px.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,708 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\ruby.bmp. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,719 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\ruby_2.bmp. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,738 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\ruby_2.GIF. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,752 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\ruby_2.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,769 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\ruby_pic.JPG. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,778 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\small_back_arrow.gif. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,782 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\spirit_index.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,805 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\the road.bmp. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,806 - foss - INFO - Metadata for 100 of 103, file:D:\foss_backup\1111\11\the road.bmp, signature: 1653181104#911454 , creation time: 1111/11/11 11:11:11
+2024-01-06 15:16:02,819 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\the view.bmp. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,842 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\west_side_kitchen_with_cabinet.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,857 - foss - WARNING - Did not find true media capture time for image D:\foss_backup\1111\11\__hr_Smile.jpg. Taking assumptions as: 1111/11/11 11:11:11 
+2024-01-06 15:16:02,862 - foss - INFO - len(output_keys):41427
+2024-01-06 15:16:02,862 - foss - INFO - len(input_keys):103
+2024-01-06 15:16:02,862 - foss - INFO - Number of new files to be copied:0
+2024-01-06 15:16:02,888 - foss - INFO - Invoking : write_quarantine_file()
+2024-01-06 15:16:02,911 - foss - INFO - Backup audit file:D:/foss_backup/backup.status.csv, total time taken for the run in 0:00:03.081945
+2024-01-06 15:16:02,911 - foss - INFO - List of files where we copied into quarantine folder:
+D:\foss_backup\1111\11\1-s2.0-S0140673610614225-gr1.jpg
+D:\foss_backup\1111\11\1.bmp
+D:\foss_backup\1111\11\2.bmp
+D:\foss_backup\1111\11\22Soft.gif
+D:\foss_backup\1111\11\30. Nov.11  032.jpg
+D:\foss_backup\1111\11\30. Nov.11  033.jpg
+D:\foss_backup\1111\11\30. Nov.11  034.jpg
+D:\foss_backup\1111\11\30. Nov.11  035.jpg
+D:\foss_backup\1111\11\30. Nov.11  036.jpg
+D:\foss_backup\1111\11\30. Nov.11  041.jpg
+D:\foss_backup\1111\11\30. Nov.11  042.jpg
+D:\foss_backup\1111\11\30. Nov.11  043.jpg
+D:\foss_backup\1111\11\302288040#31460_binno_27744-1218036858.tif
+D:\foss_backup\1111\11\3441276149#127885_Picture 040.mpg
+D:\foss_backup\1111\11\amazon-logo-tiny.gif
+D:\foss_backup\1111\11\April2013_AKME.jpg
+D:\foss_backup\1111\11\atiya_chagumba 019.mpg
+D:\foss_backup\1111\11\bg_content_bottom.gif
+D:\foss_backup\1111\11\bg_header_break.gif
+D:\foss_backup\1111\11\binno_27744-1218036858.tif
+D:\foss_backup\1111\11\bubbly.gif
+D:\foss_backup\1111\11\bubbly.png
+D:\foss_backup\1111\11\bubbly1.png
+D:\foss_backup\1111\11\check_no.gif
+D:\foss_backup\1111\11\check_yes.gif
+D:\foss_backup\1111\11\corner_tl.gif
+D:\foss_backup\1111\11\first floor-page-0.jpg
+D:\foss_backup\1111\11\first_floor_feedback_v1.JPG
+D:\foss_backup\1111\11\groud_floor_feedfack_v1.jpg
+D:\foss_backup\1111\11\ground floor-page-0.jpg
+D:\foss_backup\1111\11\IMG_0037.JPG
+D:\foss_backup\1111\11\IMG_0038.JPG
+D:\foss_backup\1111\11\IMG_0039.JPG
+D:\foss_backup\1111\11\IMG_0040.JPG
+D:\foss_backup\1111\11\IMG_0041.JPG
+D:\foss_backup\1111\11\IMG_0042.JPG
+D:\foss_backup\1111\11\IMG_0043.JPG
+D:\foss_backup\1111\11\IMG_0044.JPG
+D:\foss_backup\1111\11\IMG_0045.JPG
+D:\foss_backup\1111\11\IMG_0046.JPG
+D:\foss_backup\1111\11\IMG_0047.JPG
+D:\foss_backup\1111\11\IMG_0111.JPG
+D:\foss_backup\1111\11\IMG_0112.JPG
+D:\foss_backup\1111\11\IMG_0113.JPG
+D:\foss_backup\1111\11\IMG_0115.JPG
+D:\foss_backup\1111\11\IMG_0116.JPG
+D:\foss_backup\1111\11\IMG_0117.JPG
+D:\foss_backup\1111\11\IMG_0118.JPG
+D:\foss_backup\1111\11\IMG_0119.JPG
+D:\foss_backup\1111\11\IMG_0120.JPG
+D:\foss_backup\1111\11\IMG_0121.JPG
+D:\foss_backup\1111\11\IMG_0122.JPG
+D:\foss_backup\1111\11\IMG_0127.JPG
+D:\foss_backup\1111\11\IMG_0148.JPG
+D:\foss_backup\1111\11\IMG_0477.PNG
+D:\foss_backup\1111\11\IMG_0483.PNG
+D:\foss_backup\1111\11\IMG_0536.JPG
+D:\foss_backup\1111\11\IMG_0537.JPG
+D:\foss_backup\1111\11\IMG_0538.JPG
+D:\foss_backup\1111\11\IMG_0539.JPG
+D:\foss_backup\1111\11\IMG_0549.JPG
+D:\foss_backup\1111\11\IMG_0550.JPG
+D:\foss_backup\1111\11\IMG_0943-1.png
+D:\foss_backup\1111\11\Korou_1.jpg
+D:\foss_backup\1111\11\Korou_2.jpg
+D:\foss_backup\1111\11\Korou_3.jpg
+D:\foss_backup\1111\11\Korou_4.jpg
+D:\foss_backup\1111\11\Korou_5.jpg
+D:\foss_backup\1111\11\Korou_6.jpg
+D:\foss_backup\1111\11\M219F1.jpg
+D:\foss_backup\1111\11\ME_507_Borderline.png
+D:\foss_backup\1111\11\MOV00009.MPG
+D:\foss_backup\1111\11\MOV00010.MPG
+D:\foss_backup\1111\11\MOV00031.MPG
+D:\foss_backup\1111\11\MOV00032.MPG
+D:\foss_backup\1111\11\MOV00033.MPG
+D:\foss_backup\1111\11\MOV00034.MPG
+D:\foss_backup\1111\11\MOV00035.MPG
+D:\foss_backup\1111\11\MOV00036.MPG
+D:\foss_backup\1111\11\MOV00037.MPG
+D:\foss_backup\1111\11\MOV00038.MPG
+D:\foss_backup\1111\11\MOV00039.MPG
+D:\foss_backup\1111\11\MOV00207.MPG
+D:\foss_backup\1111\11\MOV00229.MPG
+D:\foss_backup\1111\11\my.jpg
+D:\foss_backup\1111\11\njlogo.gif
+D:\foss_backup\1111\11\ocean.bmp
+D:\foss_backup\1111\11\online.gif
+D:\foss_backup\1111\11\Picture 035.mpg
+D:\foss_backup\1111\11\Picture 036.mpg
+D:\foss_backup\1111\11\Picture 040.mpg
+D:\foss_backup\1111\11\px.gif
+D:\foss_backup\1111\11\ruby.bmp
+D:\foss_backup\1111\11\ruby_2.bmp
+D:\foss_backup\1111\11\ruby_2.GIF
+D:\foss_backup\1111\11\ruby_2.JPG
+D:\foss_backup\1111\11\ruby_pic.JPG
+D:\foss_backup\1111\11\small_back_arrow.gif
+D:\foss_backup\1111\11\spirit_index.jpg
+D:\foss_backup\1111\11\the road.bmp
+D:\foss_backup\1111\11\the view.bmp
+D:\foss_backup\1111\11\west_side_kitchen_with_cabinet.jpg
+D:\foss_backup\1111\11\__hr_Smile.jpg
+2024-01-06 15:16:02,914 - foss - INFO - Completed process() : Input folder:D:\foss_backup\1111\11\\, Output folder:D:/foss_backup/)
+2024-01-06 15:16:02,914 - foss - INFO - ****** JOB COMPLETED. ******
+
