@@ -12,6 +12,8 @@ chronologically. I have decided to use the year/month format.
 
 ![My Photos by year!!!](myplot.png)
 
+![Final output folders](final_destination.png)
+
 **Challenges**
 
 _Ethical & Social_
