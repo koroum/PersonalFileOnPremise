@@ -23,8 +23,9 @@ from PIL import Image
 import PIL
 from pillow_heif import register_heif_opener
 
-TRAIL_RUN_MAX = 10000
 TRAIL_RUN = False
+TRAIL_RUN_MAX = 100
+
 
 FILE_LOGGER_LEVEL = logging.INFO
 CONSOLE_LOGGER_LEVEL = logging.INFO
@@ -135,7 +136,6 @@ def getLesserDateAsCreateDt(file):
     return creation_time
 
 
-# In[8]:
 
 
 def get_file_pattern_from_folder( input_root_dir ):
@@ -153,9 +153,6 @@ def get_file_pattern_from_folder( input_root_dir ):
 
 
 
-# Function to print processing status at regular interval
-
-# In[9]:
 
 
 def get_print_modulator( counter ):
@@ -544,26 +541,10 @@ def copy_files(to_copy_map, output_dir ):
     return copied_files_metadata
 
 
-# **Test cases**
-#
-# 1. First run : Connect a camera say on 1/1/2022. Connect external hard disk -ehd. First run.
-# 2. Subsequent backup on the same destination: Connect a camera say on 2/1/2022. Some new pictures and old one are still there in the camera. Connect ehd.
-# 3. Backup for a new camera: Delete all pictures in camera.Take new pictures on camera. Connect ehd.
-# 4. Backup folder that has duplicate: Have duplicate pictures in the camera. Connect external hard disk -ehd.
-# 5. New file with same crc but diferent size as old file: Same crc between new incoming file and output folder but file size different. SHould back up.File should be copied. --( #not tested )
-#
-#
-
-# In[20]:
-
-
 def get_hours_minutes_seconds(td):
     return int(td.total_seconds()/3600), int(td.total_seconds()/60), int(td.seconds)
 
-
-
 logger = setup_custom_logger("foss")
-
 
 def process(input_root_dir,output_root_dir ):
     logger.info("Invoking process() : Input folder:" +  str(input_root_dir) + ", Output folder:" + str(output_root_dir) + ")")
@@ -598,11 +579,8 @@ quarantine_file = []
 #input_root_dir = r'D:\foss_backup\1111\01\2016-08-08_160407000_B6F08_iOS.png'
 #input_root_dir = r'D:\amazon_photo_download\\'
 #input_root_dir = r'D:\amazon_photo_download\Amazon Photos Downloads\greece\\'
-input_root_dir = r'D:\foss_backup\1111\11\\'
-output_root_dir =r'D:/foss_backup/'
-
-
-
+input_root_dir = r'G:\photo_backup_before20051015\\'
+output_root_dir =r'E:/foss_backup/'
 
 # #Final destination
 # input_root_dir = r'D:\amazon_photo_download\\'
@@ -612,7 +590,6 @@ output_root_dir =r'D:/foss_backup/'
 
 process(input_root_dir,output_root_dir)
 
-logger.info('List of files where we copied into quarantine folder:\n' + "\n".join(str(x) for x in quarantine_file))
+#logger.info('List of files where we copied into quarantine folder:\n' + "\n".join(str(x) for x in quarantine_file))
 logger.info("Completed process() : Input folder:" +  str(input_root_dir) + ", Output folder:" + str(output_root_dir) + ")")
 logger.info('****** JOB COMPLETED. ******\n')
-
